@@ -8,6 +8,7 @@ Not a new paragraph.
 
 List:
 - one -- Create an amazing theme for both webpages.
-- two -- Add in links for my poetry.
-- three -- Add in links for my artwork.
+- two -- Add links to the projects for class assignments that I am working on.
+- three -- Add in links for my poetry and artwork.
 - four -- Create a link to my new blog.
+- five -- Start working on creating my own theme page in html.
