@@ -7,8 +7,8 @@ New paragraph.
 Not a new paragraph.
 
 List:
-- one  Create an amazing theme for both webpages.
-- two -- Add links to the projects for class assignments that I am working on.
-- three -- Add in links for my poetry and artwork.
-- four -- Create a link to my new blog.
-- five -- Start working on creating my own theme page in html.
+- 1. Create an amazing theme for both webpages.
+- 2. Add links to the projects for class assignments that I am working on.
+- 3. Add links for my poetry and artwork.
+- 4. Create a link to my new blog.
+- 5. Start working on creating my own theme page in html.
