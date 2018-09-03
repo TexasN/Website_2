@@ -7,7 +7,7 @@ New paragraph.
 Not a new paragraph.
 
 List:
-- one -- Create an amazing theme for both webpages.
+- one  Create an amazing theme for both webpages.
 - two -- Add links to the projects for class assignments that I am working on.
 - three -- Add in links for my poetry and artwork.
 - four -- Create a link to my new blog.
